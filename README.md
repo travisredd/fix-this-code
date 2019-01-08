@@ -20,7 +20,7 @@ Add code to problem.js to satisfy the requirements (test at https://jsbin.com/?j
 
 Commit your code (git add --all && git commit -m "Fixed the code")
 
-Push your branch (git push -u origin <branch>)
+Push your branch (git push -u origin <branch_name>)
 
 Create a pull request (go to https://github.com/chchchchino/fix-this-code. Click "New Pull Request" and follow instructions)
 
